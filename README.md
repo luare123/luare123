@@ -7,15 +7,6 @@
 </h3> 
   <hr>
 
-  
-<div>
-  <center>
-  <a href="https://github.com/luare123">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luare123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luare123&layout=compact&langs_count=7&theme=dracula"/>
-  </center>
-</div>
-
 <h3>
   Estudando:
  </h3>
