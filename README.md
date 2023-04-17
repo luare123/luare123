@@ -1,5 +1,5 @@
 <center>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Black&height=150&section=header&text=Luar+&fontSize=30&fontColor=DDA0DD&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Black&height=150&section=header&text=Bem-Vindo-ao-meu-GitHub+&fontSize=30&fontColor=DDA0DD&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+o+Luar+;tenho+17+anos,+sou+de+Jaú-SP;+Bem-Vindo+ao+meu+Git+)](https://git.io/typing-svg)
 <h3>
