@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:87CEEB&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=sharp&color=0:0000FF,100:87CEEB&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
 
 # Studing:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -19,4 +19,4 @@
 # Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:87CEEB&height=175&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=sharp&color=0:0000FF,100:87CEEB&height=175&section=footer&reversal=true)
