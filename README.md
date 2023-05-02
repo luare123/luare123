@@ -3,7 +3,7 @@
 # 🌌 ETEC Desenvolvimento de Sistemas 3/3 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luarisgone/)
 
-# Studing:
+# 💻 Studing:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Stats:
+# 👾 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:696969&height=175&section=footer&reversal=true)
