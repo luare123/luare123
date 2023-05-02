@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:87CEEB&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
 
-<h2>Studing: </h2>
+# Studing:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
@@ -16,17 +16,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>Stats: </h3>
+# Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:87CEEB&height=175&section=footer&reversal=true)
-
-<style>
-  h2 {
-  font-size: 20px;
-}
-
-h3 {
-  font-size: 18px;
-}
-  </style>
