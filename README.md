@@ -20,6 +20,8 @@
      <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
      <img align="center" alt="VS 2022" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
      <img align="center" alt="VS Code" height="50" width=60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+
+      ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 </div>
 <br>
 
