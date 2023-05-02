@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FF4500&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:0000FF,100:87CEEB&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
 
 # Studing:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
