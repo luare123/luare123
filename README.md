@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:696969&height=175&text=GitHub%20do%20Luar&animation=fadeIn&fontColor=eeeeee&fontSize=40&fontAlignY=25&desc=Seja%20bem-vindo(a)&descAlignY=45)
 
 # 🌌 ETEC Desenvolvimento de Sistemas 3/3 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luarisgone/)
