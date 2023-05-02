@@ -7,9 +7,9 @@
 </h3> 
   <hr>
 
-<h3>
-  Estudando:
+#Estudando:
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  
 <br>
 
   [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luarisgone/)
