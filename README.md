@@ -22,6 +22,4 @@
 # Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/luarisgone/)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:696969&height=175&section=footer&reversal=true)
