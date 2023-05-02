@@ -19,4 +19,4 @@
 # Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeeaasd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:17cfcf,100:6617cf&height=175&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:0000FF,100:87CEEB&height=175&section=footer&reversal=true)
